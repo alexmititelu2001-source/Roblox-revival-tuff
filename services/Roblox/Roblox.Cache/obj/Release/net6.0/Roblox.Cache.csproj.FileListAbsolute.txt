@@ -1,0 +1,12 @@
+E:\ECS-main\services\Roblox\Roblox.Cache\bin\Release\net6.0\Roblox.Cache.deps.json
+E:\ECS-main\services\Roblox\Roblox.Cache\bin\Release\net6.0\Roblox.Cache.dll
+E:\ECS-main\services\Roblox\Roblox.Cache\bin\Release\net6.0\Roblox.Cache.pdb
+E:\ECS-main\services\Roblox\Roblox.Cache\obj\Release\net6.0\Roblox.Cache.csproj.AssemblyReference.cache
+E:\ECS-main\services\Roblox\Roblox.Cache\obj\Release\net6.0\Roblox.Cache.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECS-main\services\Roblox\Roblox.Cache\obj\Release\net6.0\Roblox.Cache.AssemblyInfoInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Cache\obj\Release\net6.0\Roblox.Cache.AssemblyInfo.cs
+E:\ECS-main\services\Roblox\Roblox.Cache\obj\Release\net6.0\Roblox.Cache.csproj.CoreCompileInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Cache\obj\Release\net6.0\Roblox.Cache.dll
+E:\ECS-main\services\Roblox\Roblox.Cache\obj\Release\net6.0\refint\Roblox.Cache.dll
+E:\ECS-main\services\Roblox\Roblox.Cache\obj\Release\net6.0\Roblox.Cache.pdb
+E:\ECS-main\services\Roblox\Roblox.Cache\obj\Release\net6.0\ref\Roblox.Cache.dll

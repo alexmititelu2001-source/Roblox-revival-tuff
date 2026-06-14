@@ -1,0 +1,11 @@
+E:\ECS-main\services\Roblox\Roblox.Logging\bin\Release\net6.0\Roblox.Logging.deps.json
+E:\ECS-main\services\Roblox\Roblox.Logging\bin\Release\net6.0\Roblox.Logging.dll
+E:\ECS-main\services\Roblox\Roblox.Logging\bin\Release\net6.0\Roblox.Logging.pdb
+E:\ECS-main\services\Roblox\Roblox.Logging\obj\Release\net6.0\Roblox.Logging.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECS-main\services\Roblox\Roblox.Logging\obj\Release\net6.0\Roblox.Logging.AssemblyInfoInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Logging\obj\Release\net6.0\Roblox.Logging.AssemblyInfo.cs
+E:\ECS-main\services\Roblox\Roblox.Logging\obj\Release\net6.0\Roblox.Logging.csproj.CoreCompileInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Logging\obj\Release\net6.0\Roblox.Logging.dll
+E:\ECS-main\services\Roblox\Roblox.Logging\obj\Release\net6.0\refint\Roblox.Logging.dll
+E:\ECS-main\services\Roblox\Roblox.Logging\obj\Release\net6.0\Roblox.Logging.pdb
+E:\ECS-main\services\Roblox\Roblox.Logging\obj\Release\net6.0\ref\Roblox.Logging.dll

@@ -1,0 +1,15 @@
+E:\ECS-main\services\Roblox\Roblox.Models\bin\Release\net6.0\Roblox.Models.deps.json
+E:\ECS-main\services\Roblox\Roblox.Models\bin\Release\net6.0\Roblox.Models.dll
+E:\ECS-main\services\Roblox\Roblox.Models\bin\Release\net6.0\Roblox.Models.pdb
+E:\ECS-main\services\Roblox\Roblox.Models\bin\Release\net6.0\Roblox.Configuration.dll
+E:\ECS-main\services\Roblox\Roblox.Models\bin\Release\net6.0\Roblox.Configuration.pdb
+E:\ECS-main\services\Roblox\Roblox.Models\obj\Release\net6.0\Roblox.Models.csproj.AssemblyReference.cache
+E:\ECS-main\services\Roblox\Roblox.Models\obj\Release\net6.0\Roblox.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECS-main\services\Roblox\Roblox.Models\obj\Release\net6.0\Roblox.Models.AssemblyInfoInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Models\obj\Release\net6.0\Roblox.Models.AssemblyInfo.cs
+E:\ECS-main\services\Roblox\Roblox.Models\obj\Release\net6.0\Roblox.Models.csproj.CoreCompileInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Models\obj\Release\net6.0\Roblox.M.74AD7172.Up2Date
+E:\ECS-main\services\Roblox\Roblox.Models\obj\Release\net6.0\Roblox.Models.dll
+E:\ECS-main\services\Roblox\Roblox.Models\obj\Release\net6.0\refint\Roblox.Models.dll
+E:\ECS-main\services\Roblox\Roblox.Models\obj\Release\net6.0\Roblox.Models.pdb
+E:\ECS-main\services\Roblox\Roblox.Models\obj\Release\net6.0\ref\Roblox.Models.dll

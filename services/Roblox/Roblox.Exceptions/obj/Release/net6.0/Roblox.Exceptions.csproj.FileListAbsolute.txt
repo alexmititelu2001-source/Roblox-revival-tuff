@@ -1,0 +1,11 @@
+E:\ECS-main\services\Roblox\Roblox.Exceptions\bin\Release\net6.0\Roblox.Exceptions.deps.json
+E:\ECS-main\services\Roblox\Roblox.Exceptions\bin\Release\net6.0\Roblox.Exceptions.dll
+E:\ECS-main\services\Roblox\Roblox.Exceptions\bin\Release\net6.0\Roblox.Exceptions.pdb
+E:\ECS-main\services\Roblox\Roblox.Exceptions\obj\Release\net6.0\Roblox.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECS-main\services\Roblox\Roblox.Exceptions\obj\Release\net6.0\Roblox.Exceptions.AssemblyInfoInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Exceptions\obj\Release\net6.0\Roblox.Exceptions.AssemblyInfo.cs
+E:\ECS-main\services\Roblox\Roblox.Exceptions\obj\Release\net6.0\Roblox.Exceptions.csproj.CoreCompileInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Exceptions\obj\Release\net6.0\Roblox.Exceptions.dll
+E:\ECS-main\services\Roblox\Roblox.Exceptions\obj\Release\net6.0\refint\Roblox.Exceptions.dll
+E:\ECS-main\services\Roblox\Roblox.Exceptions\obj\Release\net6.0\Roblox.Exceptions.pdb
+E:\ECS-main\services\Roblox\Roblox.Exceptions\obj\Release\net6.0\ref\Roblox.Exceptions.dll

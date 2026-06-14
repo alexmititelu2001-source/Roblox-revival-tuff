@@ -1,0 +1,11 @@
+E:\ECS-main\services\Roblox\Roblox.Configuration\bin\Release\net6.0\Roblox.Configuration.deps.json
+E:\ECS-main\services\Roblox\Roblox.Configuration\bin\Release\net6.0\Roblox.Configuration.dll
+E:\ECS-main\services\Roblox\Roblox.Configuration\bin\Release\net6.0\Roblox.Configuration.pdb
+E:\ECS-main\services\Roblox\Roblox.Configuration\obj\Release\net6.0\Roblox.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECS-main\services\Roblox\Roblox.Configuration\obj\Release\net6.0\Roblox.Configuration.AssemblyInfoInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Configuration\obj\Release\net6.0\Roblox.Configuration.AssemblyInfo.cs
+E:\ECS-main\services\Roblox\Roblox.Configuration\obj\Release\net6.0\Roblox.Configuration.csproj.CoreCompileInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Configuration\obj\Release\net6.0\Roblox.Configuration.dll
+E:\ECS-main\services\Roblox\Roblox.Configuration\obj\Release\net6.0\refint\Roblox.Configuration.dll
+E:\ECS-main\services\Roblox\Roblox.Configuration\obj\Release\net6.0\Roblox.Configuration.pdb
+E:\ECS-main\services\Roblox\Roblox.Configuration\obj\Release\net6.0\ref\Roblox.Configuration.dll

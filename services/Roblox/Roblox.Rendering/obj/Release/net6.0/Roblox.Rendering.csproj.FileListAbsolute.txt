@@ -1,0 +1,17 @@
+E:\ECS-main\services\Roblox\Roblox.Rendering\bin\Release\net6.0\Roblox.Rendering.deps.json
+E:\ECS-main\services\Roblox\Roblox.Rendering\bin\Release\net6.0\Roblox.Rendering.dll
+E:\ECS-main\services\Roblox\Roblox.Rendering\bin\Release\net6.0\Roblox.Rendering.pdb
+E:\ECS-main\services\Roblox\Roblox.Rendering\bin\Release\net6.0\Roblox.Logging.dll
+E:\ECS-main\services\Roblox\Roblox.Rendering\bin\Release\net6.0\Roblox.Metrics.dll
+E:\ECS-main\services\Roblox\Roblox.Rendering\bin\Release\net6.0\Roblox.Metrics.pdb
+E:\ECS-main\services\Roblox\Roblox.Rendering\bin\Release\net6.0\Roblox.Logging.pdb
+E:\ECS-main\services\Roblox\Roblox.Rendering\obj\Release\net6.0\Roblox.Rendering.csproj.AssemblyReference.cache
+E:\ECS-main\services\Roblox\Roblox.Rendering\obj\Release\net6.0\Roblox.Rendering.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECS-main\services\Roblox\Roblox.Rendering\obj\Release\net6.0\Roblox.Rendering.AssemblyInfoInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Rendering\obj\Release\net6.0\Roblox.Rendering.AssemblyInfo.cs
+E:\ECS-main\services\Roblox\Roblox.Rendering\obj\Release\net6.0\Roblox.Rendering.csproj.CoreCompileInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Rendering\obj\Release\net6.0\Roblox.R.90EB3371.Up2Date
+E:\ECS-main\services\Roblox\Roblox.Rendering\obj\Release\net6.0\Roblox.Rendering.dll
+E:\ECS-main\services\Roblox\Roblox.Rendering\obj\Release\net6.0\refint\Roblox.Rendering.dll
+E:\ECS-main\services\Roblox\Roblox.Rendering\obj\Release\net6.0\Roblox.Rendering.pdb
+E:\ECS-main\services\Roblox\Roblox.Rendering\obj\Release\net6.0\ref\Roblox.Rendering.dll

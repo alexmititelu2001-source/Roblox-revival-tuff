@@ -1,0 +1,15 @@
+E:\ECS-main\services\Roblox\Roblox.Metrics\bin\Release\net6.0\Roblox.Metrics.deps.json
+E:\ECS-main\services\Roblox\Roblox.Metrics\bin\Release\net6.0\Roblox.Metrics.dll
+E:\ECS-main\services\Roblox\Roblox.Metrics\bin\Release\net6.0\Roblox.Metrics.pdb
+E:\ECS-main\services\Roblox\Roblox.Metrics\bin\Release\net6.0\Roblox.Logging.dll
+E:\ECS-main\services\Roblox\Roblox.Metrics\bin\Release\net6.0\Roblox.Logging.pdb
+E:\ECS-main\services\Roblox\Roblox.Metrics\obj\Release\net6.0\Roblox.Metrics.csproj.AssemblyReference.cache
+E:\ECS-main\services\Roblox\Roblox.Metrics\obj\Release\net6.0\Roblox.Metrics.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECS-main\services\Roblox\Roblox.Metrics\obj\Release\net6.0\Roblox.Metrics.AssemblyInfoInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Metrics\obj\Release\net6.0\Roblox.Metrics.AssemblyInfo.cs
+E:\ECS-main\services\Roblox\Roblox.Metrics\obj\Release\net6.0\Roblox.Metrics.csproj.CoreCompileInputs.cache
+E:\ECS-main\services\Roblox\Roblox.Metrics\obj\Release\net6.0\Roblox.M.C59AA971.Up2Date
+E:\ECS-main\services\Roblox\Roblox.Metrics\obj\Release\net6.0\Roblox.Metrics.dll
+E:\ECS-main\services\Roblox\Roblox.Metrics\obj\Release\net6.0\refint\Roblox.Metrics.dll
+E:\ECS-main\services\Roblox\Roblox.Metrics\obj\Release\net6.0\Roblox.Metrics.pdb
+E:\ECS-main\services\Roblox\Roblox.Metrics\obj\Release\net6.0\ref\Roblox.Metrics.dll
