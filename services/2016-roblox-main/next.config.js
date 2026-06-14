@@ -1,10 +1,15 @@
 const fs = require('fs');
 const path = require('path');
-const configPath = path.join(__dirname, path.sep + 'config.json');
-if (!fs.existsSync(configPath)) {
-  throw new Error('Configuration could not be found at location: ' + configPath);
+const configPath = path.join(__dirname, 'config.json');
+const exampleConfigPath = path.join(__dirname, 'config.example.json');
+let config;
+if (fs.existsSync(configPath)) {
+  config = JSON.parse(fs.readFileSync(configPath).toString('utf-8'));
+} else if (fs.existsSync(exampleConfigPath)) {
+  config = JSON.parse(fs.readFileSync(exampleConfigPath).toString('utf-8'));
+} else {
+  throw new Error('Configuration could not be found. Expected config.json or config.example.json at: ' + __dirname);
 }
-const config = JSON.parse(fs.readFileSync(configPath).toString('utf-8'));
 
 module.exports = {
   reactStrictMode: true,
